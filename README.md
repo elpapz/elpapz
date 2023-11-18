@@ -4,7 +4,7 @@
 ## 💫 About Me:
 🔭 I’m currently working on **C/C++** projects.<br>👯 I’m looking to collaborate on the development of new software projects.<br>🌱 I’m currently learning **C/C++** and computer science at **42Porto School**.
 
-📫 How to reach me: **andre_canelas_kaldeich@gmail.com**
+📫 How to reach me: **andrecanelaskaldeich@gmail.com**
 
 
 ## 💻 Tech Stack:
