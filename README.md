@@ -1,8 +1,7 @@
-<h3 align="center">Hi 👋! My name is André!!</h3>
+## <h3 align="center">Hi 👋! My name is André!!</h3>
 
-###
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on **C/C++** projects.<br>👯 I’m looking to collaborate on the development of new software projects.<br>🌱 I’m currently learning **C/C++** and computer science at **42Porto School**.
 
 📫 How to reach me: **andre_canelas_kaldeich@gmail.com**
